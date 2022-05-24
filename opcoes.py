@@ -191,3 +191,4 @@ class Opcao:
             else:
                 print("A opção digitada é inválida")
                 sleep(2)
+                
