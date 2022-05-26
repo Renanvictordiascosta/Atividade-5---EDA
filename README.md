@@ -1,2 +1,2 @@
 # Atividade-Avaliativa
-Atividade avaliativa de Estrutura de Dados Avançados.
+Atividade Avaliativa de Estrutura de Dados Avançados
